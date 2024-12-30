@@ -1,0 +1,12 @@
+langchain-community
+PyPDF2
+python-dotenv
+streamlit
+openai
+chromadb
+altair
+tiktoken
+ollama
+langchain
+langchain-chroma
+sentence-transformer
